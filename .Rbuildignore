@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^etc5523\.Rproj$
 ^\.Rproj\.user$
 ^data-raw$
